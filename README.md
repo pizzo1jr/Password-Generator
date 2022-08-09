@@ -18,8 +18,9 @@ The script.js file holds a majority of the details behind what happens once the 
 
 ## Repo
 
+https://github.com/pizzo1jr/Password-Generator
 
-# Live Site
+## Live Site
 
 https://pizzo1jr.github.io/Password-Generator/
 
