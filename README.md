@@ -22,6 +22,8 @@ https://github.com/pizzo1jr/Password-Generator
 
 ## Live Site
 
+![image](https://user-images.githubusercontent.com/102200085/183572091-d8cd497f-19df-4811-87c9-48260764d1af.png)
+
 https://pizzo1jr.github.io/Password-Generator/
 
 
